@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* This is for NAVAGATION BAR style */
+
+#navagation{
+    display: flex;
+    justify-content: space-around;
+
+}
+/* This is for LOGO style */
+
+#logo{
+    margin: 2rem;
+    width: 2rem;   
+}
+
+#logo img{
+    
+
+/* This is for TOP-BAR style */
+
+
+/* This is for LIST-ITEM style */
+
+.list-item{
+    list-style: none;
+}
+
+ul{
+    display: flex;
+    width: 250px;
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 12px;
+}
